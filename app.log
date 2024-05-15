@@ -1,0 +1,297 @@
+ERROR:root:Error in main loop: User_DB.__init__() got an unexpected keyword argument 'user_id'
+ERROR:root:Error in main loop: User_DB.__init__() got an unexpected keyword argument 'user_id'
+ERROR:root:Error in main loop: name 'user_id' is not defined
+ERROR:root:Error in main loop: name 'user_id' is not defined
+ERROR:root:Error in main loop: name 'user_id' is not defined
+ERROR:root:Error in main loop: User_DB.__init__() got an unexpected keyword argument 'user_id'
+ERROR:root:Error in main loop: [5] User authorization failed: access_token has expired.
+ERROR:root:Error in main loop: User_DB.to_like() missing 2 required positional arguments: 'self' and 'like_id'
+ERROR:root:Error in main loop: time data '17.10' does not match format '%d.%m.%Y'
+ERROR:root:Error in main loop: name 'self' is not defined
+ERROR:root:Error in main loop: cannot access local variable 'favorite_data' where it is not associated with a value
+ERROR:root:Error in main loop: 'NoneType' object is not iterable
+ERROR:root:Error in main loop: 'User_DB' object has no attribute 'check_if_exists'
+ERROR:root:Error in main loop: 'User_DB' object has no attribute 'exists'
+ERROR:root:Error in main loop: time data '17.10' does not match format '%d.%m.%Y'
+ERROR:root:Error in main loop: unconverted data remains: .2024
+ERROR:root:Error in main loop: unconverted data remains: .2024
+ERROR:root:Error in main loop: cannot access local variable 'last_inserted_user_id' where it is not associated with a value
+ERROR:root:Error in main loop: cannot access local variable 'last_inserted_user_id' where it is not associated with a value
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(129634327) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(511828771) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(574234413) отсутствует в таблице "user_account".
+
+ERROR:root:Error in main loop: cannot access local variable 'liked_user_id' where it is not associated with a value
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(192724532) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error getting existing user ID: 'NoneType' object is not subscriptable
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 9 liked User ID None
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error getting existing user ID: 'NoneType' object is not subscriptable
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 9 liked User ID None
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error in main loop: cannot access local variable 'user_db' where it is not associated with a value
+ERROR:root:Error getting user profile: list index out of range
+ERROR:root:Error in main loop: list index out of range
+ERROR:root:No user info found for user ID None
+ERROR:root:Error sending message: [100] One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param
+ERROR:root:Error in main loop: [100] One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param
+INFO:root:Added Like: User ID 9 liked User ID None
+INFO:root:Added Like: User ID 9 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error in main loop: 'User_DB' object has no attribute 'id_by_link'
+ERROR:root:Error in main loop: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error in main loop: ОШИБКА:  столбец "photo_links" имеет тип jsonb, а выражение - text[]
+LINE 3: ..., 29, 'Новосибирск', 'https://vk.com/id44030138', ARRAY['htt...
+                                                             ^
+HINT:  Перепишите выражение или преобразуйте его тип.
+
+ERROR:root:Error in main loop: ОШИБКА:  отношение "like_block_account" не существует
+LINE 3:                 FROM like_block_account
+                             ^
+
+ERROR:root:Error in main loop: 'User_DB_1' object has no attribute 'get_last_inserted_id'
+ERROR:root:Error in main loop: User_DB_1.__init__() missing 1 required positional argument: 'like_id'
+ERROR:root:Error in main loop: User_DB_1.__init__() missing 1 required positional argument: 'like_id'
+ERROR:root:Error in main loop: User_DB_1.to_like() takes 1 positional argument but 2 were given
+INFO:root:Added Like: User ID 1 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID None
+INFO:root:Added Like: User ID None liked User ID 5
+INFO:root:Added Like: User ID None liked User ID 6
+ERROR:root:Error getting existing user ID: 'NoneType' object is not subscriptable
+INFO:root:Added Like: User ID 1 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID 8
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Block: ОШИБКА:  INSERT или UPDATE в таблице "to_block" нарушает ограничение внешнего ключа "to_block_blocked_account_id_fkey"
+DETAIL:  Ключ (blocked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID 9
+ERROR:root:Error getting existing user ID: 'NoneType' object is not subscriptable
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID None
+INFO:root:Added Like: User ID 1 liked User ID 6
+INFO:root:Added Like: User ID 1 liked User ID None
+ERROR:root:Error getting existing user ID: 'NoneType' object is not subscriptable
+INFO:root:Added Like: User ID 1 liked User ID None
+INFO:root:Added Like: User ID 1 liked User ID 8
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Block: ОШИБКА:  INSERT или UPDATE в таблице "to_block" нарушает ограничение внешнего ключа "to_block_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Block: ОШИБКА:  INSERT или UPDATE в таблице "to_block" нарушает ограничение внешнего ключа "to_block_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error in main loop: cannot access local variable 'user_id_in_db_like' where it is not associated with a value
+INFO:root:Added Like: User ID 1 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID None
+INFO:root:Added Like: User ID 1 liked User ID 16
+INFO:root:Added Like: User ID 1 liked User ID 17
+INFO:root:Added Like: User ID 1 liked User ID 18
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID 19
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID 20
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID None
+ERROR:root:Error getting existing user ID: 'NoneType' object is not subscriptable
+INFO:root:Added Like: User ID 1 liked User ID None
+INFO:root:Added Like: User ID 1 liked User ID 5
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Block: User ID 1 blocked User ID 6
+ERROR:root:Error in main loop: ОШИБКА:  отношение "user_account" не существует
+LINE 3:                 FROM user_account
+                             ^
+
+ERROR:root:Error in main loop: ОШИБКА:  отношение "user_account" не существует
+LINE 3:                 FROM user_account
+                             ^
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Block: ОШИБКА:  INSERT или UPDATE в таблице "to_block" нарушает ограничение внешнего ключа "to_block_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID None
+ERROR:root:Error getting existing user ID: 'NoneType' object is not subscriptable
+INFO:root:Added Like: User ID 1 liked User ID None
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_user_account_id_fkey"
+DETAIL:  Ключ (user_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID None
+INFO:root:Added Like: User ID 1 liked User ID 4
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+ERROR:root:Error adding Like: ОШИБКА:  INSERT или UPDATE в таблице "to_like" нарушает ограничение внешнего ключа "to_like_liked_account_id_fkey"
+DETAIL:  Ключ (liked_account_id)=(0) отсутствует в таблице "user_account".
+
+INFO:root:Added Like: User ID 1 liked User ID 5
